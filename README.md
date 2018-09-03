@@ -1,6 +1,6 @@
 # 1. 概述
 
-**注： 此项目原地址在我的kaggle主页上，可以点击[Titanic：带完整思路的机器学习项目（with scikit-learn）](https://www.kaggle.com/acphart/titanic-with-scikit-learn)进去直接Fork食用效果更佳，这里是直接把我在IPython Notebook中写的`.ipynb`文件直接转成md格式粘贴到这里的，而且这里不支持交互操作，输出的格式也比较乱，所以先把所有的输出都clear了，然后粘输出结果的截图过来，:)**
+**注： 此项目原地址在我的kaggle主页上，可以点击[Titanic：带完整思路的机器学习项目（with scikit-learn）](https://www.kaggle.com/acphart/titanic-with-scikit-learn)进去直接Fork食用效果更佳，这里是直接把我在IPython Notebook中写的`.ipynb`文件直接转成md格式粘贴到这里的，而且这里不支持交互操作，输出的格式也比较乱，所以先把所有的输出都clear了，可以直接下载上面的`.ipynb`文件在IPython Notebook中打开使用 :)**
 
 ### 1.1 项目介绍
 - 我们需要先在Titanic的Data页面看一下数据集的介绍，以及对结果的要求，如果没看先回去看一下。
